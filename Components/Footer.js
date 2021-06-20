@@ -6,7 +6,7 @@ export default function Footer() {
                 href="/"
                 rel="noopener noreferrer"
             >
-                WordPress + React Demo by
+                WordPress and React Demo by
                 <img
                     src="/aeeiee-logo.png"
                     alt="Vercel Logo"
